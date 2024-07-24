@@ -2,8 +2,8 @@ import React from 'react'
 
 const About = () => {
   return (
-    <div className='text-center text-3xl border-b border-neutral-800 mt-36 lg:mt-8'>
-        <h2 className='mb-20 text-5xl'>About 
+    <div className='text-center  border-b border-neutral-800 mt-36 lg:mt-8'>
+        <h2 className='mb-10 md:text-5xl md:mb-20 text-4xl'>About 
             <span className='text-neutral-500 m-4'>Me</span>
         </h2>
         <div className='grid md:grid-cols-2'>

@@ -6,7 +6,7 @@ import { Link } from 'react-scroll'
 const Navbar = () => {
   return (
     <div>
-      <nav className='mb-14 flex items-center justify-between'>
+      <nav className='flex items-center justify-between'>
         <div className='m-10 flex'>
           <h1 className='font-serif  text-3xl bg-gradient-to-r from-blue-300 to-purple-900 bg-clip-text text-transparent  text-[50px]'>LotfI</h1>
         </div>

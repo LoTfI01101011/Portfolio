@@ -9,7 +9,7 @@ const Experience = () => {
                 {EXperience.map((experience, index) => (
                     <div key={index} className='grid md:grid-cols-3 border-b border-neutral-800'>
                         <div className='col-span-1 lg:border-r-2 border-neutral-800'>
-                            <p className='mb-4 text-lg text-neutral-400'>{experience.Year}</p>
+                            <p className='mb-4 ml-8 md:ml-0 text-lg text-neutral-400'>{experience.Year}</p>
                         </div>
                         <div className="col-span-2 text-left ml-8">
                             <h6 className='font-semibold mb-2 text-2xl'>
