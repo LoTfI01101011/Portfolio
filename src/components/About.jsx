@@ -8,7 +8,7 @@ const About = () => {
         </h2>
         <div className='grid md:grid-cols-2'>
             <div className='mx-4 my-6'>
-                <img src="./public/images/colleagues-discussing-work-project.jpg" alt="team" />
+                <img src="images/colleagues-discussing-work-project.jpg" alt="team" />
             </div>
             <div className='mx-20 my-6 max-w-xl'>
                 <p className='text-left  text-lg '>
