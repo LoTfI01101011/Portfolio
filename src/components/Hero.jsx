@@ -11,7 +11,7 @@ const Hero = () => {
                         Passionate about building scalable and efficient backend systems while tackling complex technical challenges with innovative solutions. Proficient in integrating front-end technologies to develop functional and user-friendly applications, ensuring a seamless experience across all devices. Dedicated to optimizing performance and enhancing application functionality through careful analysis and practical problem-solving. Continuously learning and adapting to new technologies to deliver robust and future-proof solutions that meet both business needs and user expectations
                     </p>
                 </div>
-                <div className=' mx-4 mb-12 p-4 '>
+                <div className=' mt-12 md:mt-1 mb-12 p-4 '>
                     <img src="images/lotfi.png" alt="Lotfi Kaddari" />
 
                 </div>
