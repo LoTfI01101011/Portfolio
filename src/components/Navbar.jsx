@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className='m-10 flex'>
           <h1 className='font-serif  text-3xl bg-gradient-to-r from-blue-300 to-purple-900 bg-clip-text text-transparent  text-[50px]'>LotfI</h1>
         </div>
-        <div className='flex justify-between gap-1 md:gap-4 m-10'>
+        <div className='flex justify-between gap-1 md:gap-4 m-14 md:m-10'>
           <a href="https://www.linkedin.com/in/lotfi-kaddari-060a612a6/?trk=opento_sprofile_details">
             <FaLinkedin size={30} className='hover:text-neutral-100 transition duration-300' />
           </a>
@@ -21,7 +21,7 @@ const Navbar = () => {
           <PiXLogo size={30} className='hover:text-neutral-100 transition duration-300'/>
           </a>
           <a href="https://www.instagram.com/lotfi_kadari/" >
-          <FaInstagram size={30} className='hover:text-neutral-100 transition duration-300 ml-2'/>
+          <FaInstagram size={30} className='hover:text-neutral-100 transition duration-300'/>
           </a>
         </div>
       </nav>
