@@ -2,7 +2,7 @@ import React from 'react'
 
 const Hero = () => {
     return (
-        <div className='w-full py-16 px-4'>
+        <div className='w-full py-16 px-4 border-b border-neutral-800'>
             <div className='max-w-[1240px] mt-[-40px] mb-96  w-full h-[81vh] mx-auto  grid grid-cols-1 md:grid-cols-2 md:mb-1'>
                 <div className='mx-4 mb-12 p-4'>
                     <h1 className='font-thin text-6xl'>Lotfi Kaddari</h1>
