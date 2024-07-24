@@ -20,8 +20,8 @@ const Navbar = () => {
           <a href="https://x.com/KaddariL?t=JxdVnelH6rd6g3R-GRvrrw&s=09">
           <PiXLogo size={30} className='hover:text-neutral-100 transition duration-300'/>
           </a>
-          <a href="https://www.instagram.com/lotfi_kadari/">
-          <FaInstagram size={30} className='hover:text-neutral-100 transition duration-300'/>
+          <a href="https://www.instagram.com/lotfi_kadari/" >
+          <FaInstagram size={30} className='hover:text-neutral-100 transition duration-300 ml-2'/>
           </a>
         </div>
       </nav>
