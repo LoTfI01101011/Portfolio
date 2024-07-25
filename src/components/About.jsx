@@ -12,7 +12,7 @@ const About = () => {
             </div>
             <div className='mx-20 my-6 max-w-xl'>
                 <p className='text-left  text-sm md:text-lg '>
-                My name is Kaddari Lotfi Tadj Eddine, and I am from Setif, Algeria. I hold a bachelor's degree in Computer Science with a focus on web development. I specialize in backend development, particularly with REST APIs, Node.js, and Laravel, and have expertise in both SQL and NoSQL databases as well as security (CCNA). While my primary strength lies in backend development, I am also proficient in frontend development, especially with React. My professional goals include becoming an expert in backend development, diving into DevOps, and pursuing a career as a web application penetration tester.
+                My name is Kaddari Lotfi Tadj Eddine, and I am from Setif, Algeria. I hold a bachelor's degree in Computer Science with a focus on web development. I specialize in backend development, particularly with REST APIs, Node.js, and Laravel, and have expertise in both SQL and NoSQL databases as well as networking (CCNA). While my primary strength lies in backend development, I am also proficient in frontend development, especially with React. My professional goals include becoming an expert in backend development, diving into DevOps, and pursuing a career as a web application penetration tester.
                 </p>
             </div>
         </div>
