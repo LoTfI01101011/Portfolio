@@ -17,7 +17,7 @@ function App() {
         <div className='mx-auto p-8'>
           <Navbar />
           <Hero />
-          <div className='m-12 w-40 h-4'></div>
+          <div className='m-12 w-40 h-0 md:h-0'></div>
           <About />
           <Technologies />
           <Experience/>
